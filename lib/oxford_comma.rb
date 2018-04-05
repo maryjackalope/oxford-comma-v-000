@@ -1,4 +1,4 @@
 def oxford_comma(array)
   array = ["fiddleheads","okra","kohlrabi"]
-  split (",")
+  "'#{['12','34','35','231'].join("','")}'"
 end
